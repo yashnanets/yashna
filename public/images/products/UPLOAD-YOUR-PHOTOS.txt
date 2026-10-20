@@ -1,0 +1,21 @@
+YASHNA NETS — PRODUCT PHOTO FOLDER
+
+To use your own photos, replace the JPG files in this folder and keep the
+same filenames. The website will use your new photos automatically.
+
+Files used by the website:
+- invisible-grill.jpg
+- children-safety-grill.jpg
+- balcony-safety-net.jpg
+- monkey-safety-net.jpg
+- bird-safety-net.jpg
+- staircase-safety-net.jpg
+- sports-safety-net.jpg
+- cricket-net.jpg
+- construction-safety-net.jpg
+- cloth-hangers.jpg
+
+Use JPG images for the easiest replacement. Landscape images work best; the
+website crops them to fit the layout. In the downloaded ZIP, use the same
+public/images/products folder. If you want to use different filenames or
+formats, update the matching image path in src/data/products.ts.
